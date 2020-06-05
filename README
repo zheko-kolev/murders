@@ -1,0 +1,6 @@
+We analyze US gun murder data collected by tge FBI.
+
+download-data.R -> csv fiel to data directory
+wrangle-data.R -> dataset saved as R object in rda directory
+
+analysis.R -> generates a pplot and saves it to the figs directory
